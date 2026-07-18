@@ -1,0 +1,8 @@
+{
+  "name": "Resume Roaster",
+  "description": "Blunt, specific, and funny-but-useful resume feedback from a sharp hiring manager who has seen thousands of resumes and is done being polite about it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
