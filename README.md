@@ -38,32 +38,9 @@ The feedback is divided into four distinct phases:
 
 ---
 
-## 📦 Installation & Setup
+## 🚀 Live Demo
 
-To run this application locally, ensure you have **Node.js** installed, then follow these steps:
-
-### 1. Clone the project and install dependencies
-```bash
-npm install
-```
-
-### 2. Configure Environment Variables
-Create a `.env` file in the root directory and define your API key:
-```env
-GEMINI_API_KEY="your_api_key_here"
-```
-
-### 3. Run the Development Server
-```bash
-npm run dev
-```
-The server will start up on `http://localhost:3000`. Open it in your web browser to start roasting.
-
-### 4. Build for Production
-To bundle and compile the client-side files and the Express backend:
-```bash
-npm run build
-```
+Try the app live here: **[https://resume-roaster12.ai.studio/](https://resume-roaster12.ai.studio/)**
 
 ---
 
